@@ -1,0 +1,2 @@
+class IsoDownController < ApplicationController
+end
